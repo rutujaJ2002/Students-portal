@@ -1,0 +1,78 @@
+{
+  "students": [
+    {
+      "fullname": "Rutuja JAdhav",
+      "address": "Satara",
+      "email": "rutujasamiksha123@gmail.com",
+      "id": "90",
+      "branch": "Computer Engineering",
+      "birthdate": "2002-03-03",
+      "nationality": "Indian",
+      "skills": [
+        "React",
+        "Javascript"
+      ]
+    },
+    {
+      "fullname": "Shruti Jadhav",
+      "address": "Satara",
+      "email": "shruti@gmail.com",
+      "id": "21",
+      "branch": "Information Technology",
+      "birthdate": "2004-12-24",
+      "nationality": "Indian",
+      "skills": [
+        "React"
+      ]
+    },
+    {
+      "fullname": "Samiksha Jadhav",
+      "address": "Satara",
+      "email": "rutujasamiksh@gmail.com",
+      "id": "12",
+      "branch": "Mechanical Engineering",
+      "birthdate": "2003-04-15",
+      "nationality": "Indian",
+      "skills": [
+        "Javascript"
+      ]
+    },
+    {
+      "fullname": "Akanksha Sawant",
+      "address": "Sangali",
+      "email": "ak@gmail.com",
+      "id": "134",
+      "branch": "Computer Engineering",
+      "birthdate": "2001-03-15",
+      "nationality": "Indian",
+      "skills": [
+        "Javascript"
+      ]
+    },
+    {
+      "fullname": "Kimaya Kamble",
+      "address": "Raigad",
+      "email": "kkk@gmail.com",
+      "id": "123",
+      "branch": "Information Technology",
+      "birthdate": "2001-07-19",
+      "nationality": "Indian",
+      "skills": [
+        "React",
+        "Javascript"
+      ]
+    },
+    {
+      "fullname": "Aarushri ",
+      "address": "Pune",
+      "email": "darshan@gmail.com",
+      "id": "145",
+      "branch": "Computer Engineering",
+      "birthdate": "2000-12-18",
+      "nationality": "Indian",
+      "skills": [
+        "React"
+      ]
+    }
+  ]
+}
